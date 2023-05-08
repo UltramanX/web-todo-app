@@ -30,7 +30,7 @@ matplotlib-inline==0.1.6
 mkl-random==1.2.2
 mkl-service==2.4.0
 numexpr==2.8.4
-numpy==1.24.3
+numpy>=1.24.3
 packaging==23.0
 parso==0.8.3
 pexpect==4.8.0
